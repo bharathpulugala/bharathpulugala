@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bharathpulugala
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning R
+- 🌱 I’m currently creating content
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - bharathpulugala@gmail.com
 - ⚡ Fun fact: The Eiffel Tower gets taller in the summer.
